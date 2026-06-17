@@ -15,8 +15,15 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
   <a href="https://github.com/Lucas-Rodrigues-Soares">
     <img src="https://img.shields.io/badge/GitHub-LUCAS%20RODRIGUES-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
 
+  <a href="https://www.linkedin.com/in/lucas-rodrigues-4724483a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/Lucasr.ph">
+    <img src="https://img.shields.io/badge/Instagram-@Lucasr.ph-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 💻 O que estou desenvolvendo
