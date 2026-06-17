@@ -43,7 +43,6 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ### Aprendendo
 
@@ -79,7 +78,6 @@ Projeto voltado para formulários e organização de informações de contato.
 ## 🎯 Objetivos
 
 - Conseguir minha primeira oportunidade na área de tecnologia
-- Aprender React
 - Aprender desenvolvimento Back-End
 - Criar projetos cada vez mais profissionais
 - Evoluir para Desenvolvedor Full Stack
