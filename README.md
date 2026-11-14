@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Lucas Rodrigues
 
-🚀 **Desenvolvedor Front-End em formação**  
+🚀 **Desenvolvedor Full-Stack em formação**  
 🇧🇷 Ceará, Brasil
 
 Sou apaixonado por tecnologia, desenvolvimento web e design de interfaces. Atualmente estudo **HTML, CSS, Java e MySQL**, criando projetos para desenvolver minhas habilidades e construir meu portfólio.
