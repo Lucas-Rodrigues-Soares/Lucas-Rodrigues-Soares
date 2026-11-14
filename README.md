@@ -47,18 +47,10 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 
 ### Back-End
 
-
-<h3>Back-End & Banco de Dados</h3>
-
-<div>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    width="100"
-    height="40"
-    alt="MySQL"
-  />
-</div>
-
+<img
+  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
 
 ### Ferramentas
 
