@@ -45,6 +45,21 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
+### Back-End
+
+
+<h3>Back-End & Banco de Dados</h3>
+
+<div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    width="100"
+    height="40"
+    alt="MySQL"
+  />
+</div>
+
+
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
