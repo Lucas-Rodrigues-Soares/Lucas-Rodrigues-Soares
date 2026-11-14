@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor Front-End em formação**  
 🇧🇷 Ceará, Brasil
 
-Sou apaixonado por tecnologia, desenvolvimento web e design de interfaces. Atualmente estudo **HTML, CSS e Java**, criando projetos para desenvolver minhas habilidades e construir meu portfólio.
+Sou apaixonado por tecnologia, desenvolvimento web e design de interfaces. Atualmente estudo **HTML, CSS, Java e MySQL**, criando projetos para desenvolver minhas habilidades e construir meu portfólio.
 
 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e continuar evoluindo na área de tecnologia.
 
