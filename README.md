@@ -69,6 +69,9 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 
 ## 📂 Projetos em destaque
 
+###  Concessionária_Maiscarro
+Banco de dados desenvolvido em MySQL durante o curso de Técnico em Desenvolvimento de Sistemas (TDS), com foco na organização, estruturação e gerenciamento de informações de uma concessionária de veículos.
+
 ### 🏦 Apex Bank
 Projeto de banco digital focado em interface moderna e experiência do usuário.
 
