@@ -29,6 +29,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 ## 💻 O que estou desenvolvendo
 
 - 🌐 Sites responsivos
+- Modelagem e Desenvolvimento de bancos de dados
 - 🎨 Interfaces UI/UX
 - 🏦 Projetos inspirados em bancos digitais
 - 📱 Layouts para dispositivos móveis
