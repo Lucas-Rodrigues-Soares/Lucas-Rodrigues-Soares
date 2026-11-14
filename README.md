@@ -51,12 +51,15 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
   src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   alt="MySQL"
 />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+
 
 ### Aprendendo
 
